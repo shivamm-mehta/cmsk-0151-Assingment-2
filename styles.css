@@ -5,6 +5,10 @@
 .pt-4{
     padding-top: 6rem;
 }
+
+.pt {
+    padding-top: 6rem!important;
+}
 .btnbg{
     background: rgb(211, 211, 211)!important;
 }
