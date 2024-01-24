@@ -1,0 +1,19 @@
+.navbar-expand-lg .navbar-collapse {
+    justify-content: end!important;
+}
+
+.pt-4{
+    padding-top: 6rem;
+}
+.btnbg{
+    background: rgb(211, 211, 211)!important;
+}
+
+.p{
+    display: flex;
+    text-align: justify;
+}
+.img{
+    width: 200px;
+    height: 200px;
+}
