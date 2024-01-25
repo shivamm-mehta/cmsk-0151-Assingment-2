@@ -21,3 +21,11 @@
     width: 200px;
     height: 200px;
 }
+
+.pt-10{
+    padding-top: 4.25rem!important;
+}
+
+.mr{
+    margin-right: 68rem !important;
+}
