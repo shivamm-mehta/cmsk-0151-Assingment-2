@@ -1,31 +1,31 @@
 .navbar-expand-lg .navbar-collapse {
-    justify-content: end!important;
+  justify-content: end !important;
 }
 
-.pt-4{
-    padding-top: 6rem;
+.pt-4 {
+  padding-top: 6rem;
 }
 
 .pt {
-    padding-top: 6rem!important;
+  padding-top: 6rem !important;
 }
-.btnbg{
-    background: rgb(211, 211, 211)!important;
-}
-
-.p{
-    display: flex;
-    text-align: justify;
-}
-.img{
-    width: 200px;
-    height: 200px;
+.btnbg {
+  background: rgb(211, 211, 211) !important;
 }
 
-.pt-10{
-    padding-top: 4.25rem!important;
+.p {
+  display: flex;
+  text-align: justify;
+}
+.img {
+  width: 200px;
+  height: 200px;
 }
 
-.mr{
-    margin-right: 68rem !important;
+.pt-10 {
+  padding-top: 4.25rem !important;
+}
+
+.mr {
+  margin-right: 68rem !important;
 }
