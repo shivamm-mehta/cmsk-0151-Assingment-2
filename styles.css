@@ -29,9 +29,14 @@
 .mr {
   margin-right: 68rem !important;
 }
+
 footer {
   background-color: rgb(251, 251, 251);
   color: black;
   text-align: center;
   padding: 1em 0;
+}
+
+.ml {
+  margin-left: 0rem;
 }
